@@ -9,9 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mapbox/mapbox-sdk": "^0.13.2",
+    "@mui/icons-material": "^5.0.4",
+    "@mui/material": "^5.0.5",
+    "@mui/styles": "^5.0.2",
+    "d3-ease": "^3.0.1",
+    "net": "^1.0.2",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-geocode": "^0.2.3",
+    "react-map-gl": "^6.1.17",
+    "react-map-gl-geocoder": "^2.2.0",
+    "tls": "0.0.1",
+    "typeface-cormorant": "^1.1.13",
+    "typeface-quicksand": "^1.1.13"
   },
   "devDependencies": {
     "eslint": "8.1.0",
